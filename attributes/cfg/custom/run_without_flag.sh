@@ -1,0 +1,1 @@
+rustc custom.rs && ./custom
